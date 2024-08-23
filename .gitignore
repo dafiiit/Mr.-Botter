@@ -1,0 +1,18 @@
+# Virtuelle Umgebung
+venv_Simple_Walker/
+*.log
+__pycache__/
+*.pyc
+# macOS system files
+.DS_Store
+src/.DS_Store
+
+# Python bytecode files
+__pycache__/
+*.pyc
+
+# VSCode settings
+.vscode/
+
+# Virtual environment directory
+venv/
